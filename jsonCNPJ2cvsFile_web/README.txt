@@ -1,0 +1,1 @@
+This web project intent read a sequence of CNPJ numbers and obtained datas offers by a site in a json format. This project also convert json format to a cvs file.

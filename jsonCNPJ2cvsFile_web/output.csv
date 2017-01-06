@@ -1,0 +1,240 @@
+"Dados do CNPJ 28053619000183"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates"
+;code;10.93-7-01
+data_situacao;03/11/2005
+nome;"CHOCOLATES GAROTO SA"
+uf;ES
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET"
+situacao;ATIVA
+logradouro;"PC MEYERFREUND"
+numero;1
+cep;29.122-680
+municipio;"VILA VELHA"
+abertura;29/08/1966
+natureza_juridica;"205-4 - Sociedade Anônima Fechada"
+cnpj;28.053.619/0001-83
+ultima_atualizacao;2016-11-23T02:01:53.419Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 27865757000102"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates";;text;"Atividades de televisão aberta"
+;code;10.93-7-01;;code;60.21-7-00
+data_situacao;03/11/2005
+nome;"GLOBO COMUNICACAO E PARTICIPACOES S/A"
+uf;RJ
+telefone;"(21) 2540-2623"
+atividades_secundarias;
+;text;"Reprodução de vídeo em qualquer suporte";"Portais, provedores de conteúdo e outros serviços de informação na internet";"Agenciamento de espaços para publicidade, exceto em veículos de comunicação";Programadoras
+;code;18.30-0-02;63.19-4-00;73.12-2-00;60.22-5-01
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor;;qual;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET";;nome;"CARLOS HENRIQUE SCHRODER";"JORGE LUIZ DE BARROS NOBREGA";"ROSSANA FONTENELE BERTO";"ALI AHAMAD KAMEL ALI HARFOUCHE";"WILLY HAAS FILHO";"JUAREZ DE QUEIROZ CAMPOS JUNIOR";"SERGIO LOURENCO MARQUES";"MARCELO LUIS MENDES SOARES DA SILVA";"ANTONIO CLAUDIO FERREIRA NETTO";"CRISTIANE DELECRODE LOPES SUT RIBEIRO"
+situacao;ATIVA
+bairro;"JARDIM BOTANICO"
+logradouro;"R LOPES QUINTAS"
+numero;303
+cep;22.460-901
+municipio;"RIO DE JANEIRO"
+abertura;31/01/1986
+natureza_juridica;"205-4 - Sociedade Anônima Fechada"
+fantasia;"GCP,TV GLOBO, REDE GLOBO, GLOBO.COM, SOM LIVRE"
+cnpj;27.865.757/0001-02
+ultima_atualizacao;2016-11-21T09:10:20.052Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 10773501000164"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates";;text;"Atividades de televisão aberta";;text;"Provedores de acesso às redes de comunicações"
+;code;10.93-7-01;;code;60.21-7-00;;code;61.90-6-01
+data_situacao;01/04/2009
+complemento;"LOJA 10"
+nome;"OSIRNET INFO TELECOM EIRELI - EPP"
+uf;RS
+telefone;"(53) 3028-3013"
+email;admin@osirnet.com.br
+atividades_secundarias;
+;text;"Reprodução de vídeo em qualquer suporte";"Portais, provedores de conteúdo e outros serviços de informação na internet";"Agenciamento de espaços para publicidade, exceto em veículos de comunicação";Programadoras;;text;"Portais, provedores de conteúdo e outros serviços de informação na internet";"Comércio varejista especializado de equipamentos e suprimentos de informática";"Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo";"Comércio varejista de artigos de papelaria";"Reparação e manutenção de computadores e de equipamentos periféricos"
+;code;18.30-0-02;63.19-4-00;73.12-2-00;60.22-5-01;;code;63.19-4-00;47.51-2-01;47.53-9-00;47.61-0-03;95.11-8-00
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor;;qual;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;;qual;"65-Titular Pessoa Física Residente ou Domiciliado no Brasil"
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET";;nome;"CARLOS HENRIQUE SCHRODER";"JORGE LUIZ DE BARROS NOBREGA";"ROSSANA FONTENELE BERTO";"ALI AHAMAD KAMEL ALI HARFOUCHE";"WILLY HAAS FILHO";"JUAREZ DE QUEIROZ CAMPOS JUNIOR";"SERGIO LOURENCO MARQUES";"MARCELO LUIS MENDES SOARES DA SILVA";"ANTONIO CLAUDIO FERREIRA NETTO";"CRISTIANE DELECRODE LOPES SUT RIBEIRO";;nome;"VINICIOS MARTINS LEITZKE"
+situacao;ATIVA
+bairro;CENTRO
+logradouro;"R PE ANCHIETA"
+numero;1240
+cep;96.015-420
+municipio;PELOTAS
+abertura;01/04/2009
+natureza_juridica;"230-5 - Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)"
+fantasia;"PRONTO INFO TELECOM"
+cnpj;10.773.501/0001-64
+ultima_atualizacao;2016-11-22T11:09:30.936Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 28053619000183"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates"
+;code;10.93-7-01
+data_situacao;03/11/2005
+nome;"CHOCOLATES GAROTO SA"
+uf;ES
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET"
+situacao;ATIVA
+logradouro;"PC MEYERFREUND"
+numero;1
+cep;29.122-680
+municipio;"VILA VELHA"
+abertura;29/08/1966
+natureza_juridica;"205-4 - Sociedade Anônima Fechada"
+cnpj;28.053.619/0001-83
+ultima_atualizacao;2016-11-23T02:01:53.419Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 27865757000102"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates";;text;"Atividades de televisão aberta"
+;code;10.93-7-01;;code;60.21-7-00
+data_situacao;03/11/2005
+nome;"GLOBO COMUNICACAO E PARTICIPACOES S/A"
+uf;RJ
+telefone;"(21) 2540-2623"
+atividades_secundarias;
+;text;"Reprodução de vídeo em qualquer suporte";"Portais, provedores de conteúdo e outros serviços de informação na internet";"Agenciamento de espaços para publicidade, exceto em veículos de comunicação";Programadoras
+;code;18.30-0-02;63.19-4-00;73.12-2-00;60.22-5-01
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor;;qual;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET";;nome;"CARLOS HENRIQUE SCHRODER";"JORGE LUIZ DE BARROS NOBREGA";"ROSSANA FONTENELE BERTO";"ALI AHAMAD KAMEL ALI HARFOUCHE";"WILLY HAAS FILHO";"JUAREZ DE QUEIROZ CAMPOS JUNIOR";"SERGIO LOURENCO MARQUES";"MARCELO LUIS MENDES SOARES DA SILVA";"ANTONIO CLAUDIO FERREIRA NETTO";"CRISTIANE DELECRODE LOPES SUT RIBEIRO"
+situacao;ATIVA
+bairro;"JARDIM BOTANICO"
+logradouro;"R LOPES QUINTAS"
+numero;303
+cep;22.460-901
+municipio;"RIO DE JANEIRO"
+abertura;31/01/1986
+natureza_juridica;"205-4 - Sociedade Anônima Fechada"
+fantasia;"GCP,TV GLOBO, REDE GLOBO, GLOBO.COM, SOM LIVRE"
+cnpj;27.865.757/0001-02
+ultima_atualizacao;2016-12-02T15:05:53.735Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 10773501000164"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates";;text;"Atividades de televisão aberta";;text;"Provedores de acesso às redes de comunicações"
+;code;10.93-7-01;;code;60.21-7-00;;code;61.90-6-01
+data_situacao;01/04/2009
+complemento;"LOJA 10"
+nome;"OSIRNET INFO TELECOM EIRELI - EPP"
+uf;RS
+telefone;"(53) 3028-3013"
+email;admin@osirnet.com.br
+atividades_secundarias;
+;text;"Reprodução de vídeo em qualquer suporte";"Portais, provedores de conteúdo e outros serviços de informação na internet";"Agenciamento de espaços para publicidade, exceto em veículos de comunicação";Programadoras;;text;"Portais, provedores de conteúdo e outros serviços de informação na internet";"Comércio varejista especializado de equipamentos e suprimentos de informática";"Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo";"Comércio varejista de artigos de papelaria";"Reparação e manutenção de computadores e de equipamentos periféricos"
+;code;18.30-0-02;63.19-4-00;73.12-2-00;60.22-5-01;;code;63.19-4-00;47.51-2-01;47.53-9-00;47.61-0-03;95.11-8-00
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor;;qual;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;;qual;"65-Titular Pessoa Física Residente ou Domiciliado no Brasil"
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET";;nome;"CARLOS HENRIQUE SCHRODER";"JORGE LUIZ DE BARROS NOBREGA";"ROSSANA FONTENELE BERTO";"ALI AHAMAD KAMEL ALI HARFOUCHE";"WILLY HAAS FILHO";"JUAREZ DE QUEIROZ CAMPOS JUNIOR";"SERGIO LOURENCO MARQUES";"MARCELO LUIS MENDES SOARES DA SILVA";"ANTONIO CLAUDIO FERREIRA NETTO";"CRISTIANE DELECRODE LOPES SUT RIBEIRO";;nome;"VINICIOS MARTINS LEITZKE"
+situacao;ATIVA
+bairro;CENTRO
+logradouro;"R PE ANCHIETA"
+numero;1240
+cep;96.015-420
+municipio;PELOTAS
+abertura;01/04/2009
+natureza_juridica;"230-5 - Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)"
+fantasia;"PRONTO INFO TELECOM"
+cnpj;10.773.501/0001-64
+ultima_atualizacao;2016-11-22T11:09:30.936Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 28053619000183"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates"
+;code;10.93-7-01
+data_situacao;03/11/2005
+nome;"CHOCOLATES GAROTO SA"
+uf;ES
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET"
+situacao;ATIVA
+logradouro;"PC MEYERFREUND"
+numero;1
+cep;29.122-680
+municipio;"VILA VELHA"
+abertura;29/08/1966
+natureza_juridica;"205-4 - Sociedade Anônima Fechada"
+cnpj;28.053.619/0001-83
+ultima_atualizacao;2016-12-05T17:33:55.699Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 27865757000102"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates";;text;"Atividades de televisão aberta"
+;code;10.93-7-01;;code;60.21-7-00
+data_situacao;03/11/2005
+nome;"GLOBO COMUNICACAO E PARTICIPACOES S/A"
+uf;RJ
+telefone;"(21) 2540-2623"
+atividades_secundarias;
+;text;"Reprodução de vídeo em qualquer suporte";"Portais, provedores de conteúdo e outros serviços de informação na internet";"Agenciamento de espaços para publicidade, exceto em veículos de comunicação";Programadoras
+;code;18.30-0-02;63.19-4-00;73.12-2-00;60.22-5-01
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor;;qual;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET";;nome;"CARLOS HENRIQUE SCHRODER";"JORGE LUIZ DE BARROS NOBREGA";"ROSSANA FONTENELE BERTO";"ALI AHAMAD KAMEL ALI HARFOUCHE";"WILLY HAAS FILHO";"JUAREZ DE QUEIROZ CAMPOS JUNIOR";"SERGIO LOURENCO MARQUES";"MARCELO LUIS MENDES SOARES DA SILVA";"ANTONIO CLAUDIO FERREIRA NETTO";"CRISTIANE DELECRODE LOPES SUT RIBEIRO"
+situacao;ATIVA
+bairro;"JARDIM BOTANICO"
+logradouro;"R LOPES QUINTAS"
+numero;303
+cep;22.460-901
+municipio;"RIO DE JANEIRO"
+abertura;31/01/1986
+natureza_juridica;"205-4 - Sociedade Anônima Fechada"
+fantasia;"GCP,TV GLOBO, REDE GLOBO, GLOBO.COM, SOM LIVRE"
+cnpj;27.865.757/0001-02
+ultima_atualizacao;2016-12-02T15:05:53.735Z
+status;OK
+tipo;MATRIZ
+
+"Dados do CNPJ 10773501000164"
+atividade_principal;
+;text;"Fabricação de produtos derivados do cacau e de chocolates";;text;"Atividades de televisão aberta";;text;"Provedores de acesso às redes de comunicações"
+;code;10.93-7-01;;code;60.21-7-00;;code;61.90-6-01
+data_situacao;01/04/2009
+complemento;"LOJA 10"
+nome;"OSIRNET INFO TELECOM EIRELI - EPP"
+uf;RS
+telefone;"(53) 3028-3013"
+email;admin@osirnet.com.br
+atividades_secundarias;
+;text;"Reprodução de vídeo em qualquer suporte";"Portais, provedores de conteúdo e outros serviços de informação na internet";"Agenciamento de espaços para publicidade, exceto em veículos de comunicação";Programadoras;;text;"Portais, provedores de conteúdo e outros serviços de informação na internet";"Comércio varejista especializado de equipamentos e suprimentos de informática";"Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo";"Comércio varejista de artigos de papelaria";"Reparação e manutenção de computadores e de equipamentos periféricos"
+;code;18.30-0-02;63.19-4-00;73.12-2-00;60.22-5-01;;code;63.19-4-00;47.51-2-01;47.53-9-00;47.61-0-03;95.11-8-00
+qsa;
+;qual;10-Diretor;10-Diretor;16-Presidente;10-Diretor;10-Diretor;10-Diretor;;qual;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;10-Diretor;;qual;"65-Titular Pessoa Física Residente ou Domiciliado no Brasil"
+;nome;"MARTIN HUBER";"LIBERATO MILO";"JUAN CARLOS MARROQUIN CUESTA";"JOSE FLAVIO AROUCHE DE SOUZA";"LUIS ANGEL GARCIA PRIETO";"LUIZ AUGUSTO FRUET";;nome;"CARLOS HENRIQUE SCHRODER";"JORGE LUIZ DE BARROS NOBREGA";"ROSSANA FONTENELE BERTO";"ALI AHAMAD KAMEL ALI HARFOUCHE";"WILLY HAAS FILHO";"JUAREZ DE QUEIROZ CAMPOS JUNIOR";"SERGIO LOURENCO MARQUES";"MARCELO LUIS MENDES SOARES DA SILVA";"ANTONIO CLAUDIO FERREIRA NETTO";"CRISTIANE DELECRODE LOPES SUT RIBEIRO";;nome;"VINICIOS MARTINS LEITZKE"
+situacao;ATIVA
+bairro;CENTRO
+logradouro;"R PE ANCHIETA"
+numero;1240
+cep;96.015-420
+municipio;PELOTAS
+abertura;01/04/2009
+natureza_juridica;"230-5 - Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)"
+fantasia;"PRONTO INFO TELECOM"
+cnpj;10.773.501/0001-64
+ultima_atualizacao;2016-12-05T02:43:23.825Z
+status;OK
+tipo;MATRIZ
+
